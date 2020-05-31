@@ -1,4 +1,4 @@
-Vieux on linux with with QEMU + KVM
+Vieux on linux with QEMU + KVM
 =======================
 
 Requirements:
