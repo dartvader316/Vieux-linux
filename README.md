@@ -113,7 +113,7 @@ Update your BIOS if possible, older boards may have issues with early implementa
 ## Personally tested devices
 
 - DISTRO: Arch linux, ipad air(WI-FI) IOS 12.0 -> IOS 10.3.3
-
+- DISTRO: Arch linux, iphone 4s IOS 9.3.5 -> IOS 6.1.3
 ## Thanks and sources
 
 [downthecrop](https://github.com/downthecrop) for [passthrough USB guide](https://github.com/downthecrop/macOS-Simple-KVM)
